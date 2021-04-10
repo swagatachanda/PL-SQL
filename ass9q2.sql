@@ -6,5 +6,5 @@ BEGIN
     base := &base;
     height := &height;
     area := 0.5 * base * height;
-    DBMS_OUTPUT.PUT_LINE('AREA OF MOMOANGLE : '||area);
+    DBMS_OUTPUT.PUT_LINE('AREA OF TRIANGLE : '||area);
 END;
